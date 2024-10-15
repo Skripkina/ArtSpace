@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="name1">Red horizontal bridge with a long road</string>
+    <string name="autor1">Jack Millton</string>
+    <string name="date1">(2015)</string>
+    <string name="name2">Red horizontal bridge with a long road</string>
+    <string name="autor2">Jack Millton</string>
+    <string name="date2">(2015)</string>
+    <string name="name3">Red horizontal bridge with a long road</string>
+    <string name="autor3">Jack Millton</string>
+    <string name="date3">(2015)</string>
+    <string name="name4">Red horizontal bridge with a long road</string>
+    <string name="autor4">Jack Millton</string>
+    <string name="date4">(2015)</string>
+    <string name="name5">Red horizontal bridge with a long road</string>
+    <string name="autor5">Jack Millton</string>
+    <string name="date5">(2015)</string>
+</resources>
